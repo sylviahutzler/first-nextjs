@@ -1,7 +1,8 @@
 import React, {useState, useEffect} from "react"
-import CountButton from "./components/CountButton/CountButton"
-import SearchBar from "./components/SearchBar/SearchBar"
-import Paragraph from "./components/Paragraph/Paragraph"
+import CountButton from "../components/CountButton/CountButton"
+import SearchBar from "../components/SearchBar/SearchBar"
+import Paragraph from "../components/Paragraph/Paragraph"
+import "../styles/global.css"
 
 
 
