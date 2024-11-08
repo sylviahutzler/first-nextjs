@@ -1,4 +1,4 @@
-import Link from '.next/Link';
+import Link from '.ext/link';
 
 
 
